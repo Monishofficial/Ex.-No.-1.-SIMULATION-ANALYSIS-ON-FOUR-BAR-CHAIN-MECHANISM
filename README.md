@@ -53,10 +53,11 @@
 
 
 ## Output:
+![image](https://github.com/Monishofficial/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/149455421/374c1542-3e1f-41e5-805c-a8967a4e7a7a)
 
 
-### Name:
-### Register Number: 
+### Name:MONISH  N
+### Register Number: 212223240097
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
